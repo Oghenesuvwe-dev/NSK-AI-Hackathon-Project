@@ -4,7 +4,7 @@ python-dotenv==1.0.0
 groq==0.31.0
 pydantic==2.11.6
 streamlit==1.48.1
-requests==2.31.0
+requests==2.32.4
 yfinance==0.2.18
 plotly==5.17.0
 pandas==2.1.4
